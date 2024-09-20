@@ -31,7 +31,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehul-kumar-27&" alt="mehul-kumar-27" /></p>
 
-[![@mehul_kumar_27's Holopin board](https://holopin.me/mehul_kumar_27)](https://holopin.io/@mehul_kumar_27)
 
 <h3 align="left">Visit My GitLab Profile:</h3>
 <p align="left">
