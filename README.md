@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehul-kumar-27&label=Profile%20views&color=0e75b6&style=flat" alt="mehul-kumar-27" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Machine Learning, Go & RUST**
+- 🌱 I work on projects on **Python, Golang, Flutter, Typescript, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Mehul-Kumar-27?tab=repositories](https://github.com/Mehul-Kumar-27?tab=repositories)
 
